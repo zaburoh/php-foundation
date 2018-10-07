@@ -1,1 +1,1 @@
-namespaceの使用方法。
+namespaceの練習。
