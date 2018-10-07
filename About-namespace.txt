@@ -1,0 +1,1 @@
+namespaceの使用方法。
